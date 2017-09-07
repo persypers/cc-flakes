@@ -1,0 +1,20 @@
+
+crying.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plach_telo
+  rotate: false
+  xy: 2, 2
+  size: 390, 774
+  orig: 390, 774
+  offset: 0, 0
+  index: -1
+ruki_plach
+  rotate: false
+  xy: 394, 459
+  size: 278, 317
+  orig: 278, 317
+  offset: 0, 0
+  index: -1

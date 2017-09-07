@@ -1,0 +1,55 @@
+
+angry.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 41
+  size: 427, 945
+  orig: 427, 945
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 2, 28
+  size: 67, 11
+  orig: 67, 11
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 431, 2
+  size: 289, 393
+  orig: 289, 393
+  offset: 0, 0
+  index: -1
+b_evil_hand1
+  rotate: true
+  xy: 772, 716
+  size: 270, 200
+  orig: 270, 200
+  offset: 0, 0
+  index: -1
+b_evil_hand2
+  rotate: true
+  xy: 772, 423
+  size: 291, 178
+  orig: 291, 178
+  offset: 0, 0
+  index: -1
+b_evil_head
+  rotate: false
+  xy: 722, 215
+  size: 134, 180
+  orig: 134, 180
+  offset: 0, 0
+  index: -1
+niz_evil
+  rotate: false
+  xy: 431, 397
+  size: 339, 589
+  orig: 339, 589
+  offset: 0, 0
+  index: -1
